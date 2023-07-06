@@ -1,0 +1,14 @@
+{
+  "name": "cypress-error",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Private",
+  "author": "Robin Garnham <robin.garnham@gmail.com>",
+  "scripts": {
+    "cypress": "yarn run cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.16.0",
+    "typescript": "^5.1.6"
+  }
+}
