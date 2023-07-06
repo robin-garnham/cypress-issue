@@ -10,7 +10,7 @@ export default defineConfig({
     },
     defaultCommandTimeout: 10000,
     experimentalStudio: true,
-    baseUrl: "http://localhost:3000",
+    baseUrl: "https://www.google.com",
     specPattern: "cypress/e2e/**/*.{js,jsx,ts,tsx}",
   },
 });

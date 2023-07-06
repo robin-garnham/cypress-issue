@@ -5,7 +5,7 @@
   "license": "Private",
   "author": "Robin Garnham <robin.garnham@gmail.com>",
   "scripts": {
-    "cypress": "yarn run cypress open"
+    "cypress:open": "yarn run cypress open"
   },
   "dependencies": {
     "cypress": "^12.16.0",
